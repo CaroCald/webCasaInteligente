@@ -1,0 +1,18 @@
+[
+  {
+
+    "id":1,
+    "nombre": "carolina",
+    "controlador": "puerta",
+    "accion": "cerrar"
+
+  },
+  {
+
+    "id":2,
+    "nombre": "sas",
+    "controlador": "puerta",
+    "accion": "cerrar"
+
+  }
+]
